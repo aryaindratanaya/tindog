@@ -12,12 +12,12 @@ h1, h2, h3, h4, h5, h6 {
 .big-heading {
   font-family: "Montserrat";
   font-weight: 900;
-  font-size: 3.5rem;
+  font-size: 48px;
   line-height: 1.5;
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: 48px;
   line-height: 1.5;
 }
 
@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-brand {
   font-family: "Ubuntu";
-  font-size: 2.5rem;
+  font-size: 40px;
   font-weight: bold;
 }
 
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-link {
   font-family: "Montserrat";
-  font-size: 1.2rem;
+  font-size: 20px;
   font-weight: 300;
 }
 
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .icon {
   color: #EF8172;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
 .icon:hover {
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .testimonial-text {
-  font-size: 3rem;
+  font-size: 48px;
   line-height: 1.5;
 }
 
@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .price-text {
-  font-size: 3rem;
+  font-size: 48px;
   line-height: 1.5;
 }
 
